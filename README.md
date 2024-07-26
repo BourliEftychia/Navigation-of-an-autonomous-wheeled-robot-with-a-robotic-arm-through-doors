@@ -21,3 +21,5 @@ navigation.
 Keywords: Robotic Arm, Wheeled Robot, ROS, Autonomous Navigation, Sensors,
 MoveIt, Robotic Navigation, Autonomous Environment, Dynamic Fields, Obstacle
 Avoidance Algorithms, Attractive Forces, Repulsive Forces, It, Interior
+
+Here is my presentation in English : https://docs.google.com/presentation/d/1s306GjaaVUidzuZmHRl1f5hRvPpgLZj9/edit?usp=sharing&ouid=104841813215463042062&rtpof=true&sd=true
